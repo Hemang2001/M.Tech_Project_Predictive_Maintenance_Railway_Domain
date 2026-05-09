@@ -1,0 +1,91 @@
+1. Wheel Defect & Crack Detection
+Dataset 1: Railway Wheel Defect Dataset 
+📎 https://www.kaggle.com/search?q=railway+wheel+defect
+Details:
+	• Wheel images (good vs defective)
+	• Includes: 
+		○ cracks
+		○ flats
+		○ wear
+ Dataset 2: Surface Crack Detection Dataset (General – Transfer Learning)
+📎 https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
+Details:
+	• Concrete/metal crack images
+	• 40,000+ images
+
+ 2. Brake Pad Wear Detection
+ Dataset 1: Brake Pad Detection Dataset 
+📎 https://universe.roboflow.com/search?q=brake
+Details:
+	• Annotated brake system images
+	• Bounding boxes for components
+
+ Dataset 2: Mechanical Wear Dataset (General)
+📎 https://www.kaggle.com/datasets
+(Search: mechanical wear detection)
+Details:
+	• Machinery parts with wear patterns
+
+ 3. Bogie / Under‑Carriage Inspection
+Dataset 1: Railway Bogie Inspection Dataset (Roboflow / Industrial CV)
+📎 https://universe.roboflow.com/search?q=railway
+Details:
+	• Undercarriage components
+	• Fault detection annotations
+
+Dataset 2: MVTec Anomaly Detection Dataset (Very Important)
+📎 https://www.mvtec.com/company/research/datasets/mvtec-ad
+Details:
+	• Industrial anomaly dataset
+	• Includes defects in components
+
+ 4. Pantograph / Overhead Equipment
+ Dataset: Railway Pantograph Dataset (Research + Open sources)
+📎 https://www.kaggle.com/search?q=pantograph
+Alternative:
+📎 https://universe.roboflow.com/search?q=railway+pantograph
+Details:
+	• Pantograph images/videos
+	• Fault detection possible
+
+ 5. Exterior Surface Damage (Coach Body)
+ Dataset 1: Surface Defect Detection (Recommended)
+📎 https://www.kaggle.com/datasets/paulrohan2020/surface-defect-detection
+Details:
+	• Metal surface defects
+	• cracks, dents, corrosion
+
+ Dataset 2: NEU Surface Defect Dataset
+📎 http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
+Details:
+	• Steel defect images
+	• 6 types of defects
+
+ 6. Door System Fault Detection
+ Dataset: Industrial Object Detection Dataset
+📎 https://universe.roboflow.com
+(Search: door detection)
+Details:
+	• Door opening/closing states
+
+ 7. Coupler / Mechanical Components
+Dataset: General Object Detection Dataset (COCO)
+📎 https://cocodataset.org
+Details:
+	• Object detection general dataset
+
+ 8. Oil Leakage / Fluid Detection
+ Dataset 1: Oil Spill Detection Dataset
+📎 https://www.kaggle.com/search?q=oil+spill
+Details:
+	• Fluid leakage images
+
+Dataset 2: Anomaly Detection (MVTec – Again)
+📎 https://www.mvtec.com/company/research/datasets/mvtec-ad
+👉 Best for leakage/anomaly detection
+
+ 9. Roof Equipment Monitoring
+ Dataset: Drone-Based Inspection Dataset
+📎 https://www.kaggle.com/search?q=drone+inspection
+Details:
+	• Infrastructure inspection images
