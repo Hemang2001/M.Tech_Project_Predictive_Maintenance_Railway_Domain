@@ -4,7 +4,7 @@ M.Tech Final Year Project
 Predictive Maintenance in Railway Domain Using Artificial Intelligence 
 
 ## 🎯 Objective
-To build a predictive model to detect failures in railway systems.
+Repository to track project activity for predictive model to detect failures in railway systems.
 
 ## Scope of Work
 The scope of this project is to design and implement an AI-driven predictive maintenance 
