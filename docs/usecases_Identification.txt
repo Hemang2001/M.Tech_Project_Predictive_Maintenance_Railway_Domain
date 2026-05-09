@@ -1,0 +1,11 @@
+## Use Cases for Rolling Stock Maintenance (External Inspection)
+
+1 Wheel Defect and Crack Detection Problem:
+2 Brake Pad Wear Detection
+3 Bogie Component Inspection
+4 Pantograph Condition Monitoring
+5 Exterior Surface Damage Detection
+6 Door and Mechanical System Fault Detection Problem:
+7 Coupler and Buffer System Inspection Problem:
+8 Oil Leakage and Fluid Detection Problem:
+9 Roof Equipment Monitoring Problem:
