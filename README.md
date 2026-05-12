@@ -25,3 +25,22 @@ metrics such as accuracy, precision, recall, and reliability of predictions.
 Identify use-case (for e.g.Track defects) --> collect dataset & preprocess it. --> apply aprropriate training model --> 
 Create a logic for predictive maintenance --> output as alert
 
+### step wise following
+Images
+   ↓
+Labeling
+   ↓
+YOLO Training
+   ↓
+Detection
+   ↓
+Store Results
+   ↓
+Trend Analysis
+   ↓
+Prediction Logic
+   ↓
+Maintenance Decision
+   ↓
+Alert System 
+
