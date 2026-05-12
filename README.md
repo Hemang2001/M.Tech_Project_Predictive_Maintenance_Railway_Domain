@@ -20,3 +20,8 @@ evolve toward a zero-touch predictive maintenance system, where minimal manual i
 is required and maintenance alerts are generated automatically based on intelligent decision 
 models. After that the performance of the developed models will be evaluated using appropriate 
 metrics such as accuracy, precision, recall, and reliability of predictions. 
+
+## Work flow Define:
+Identify use-case (for e.g.Track defects) --> collect dataset & preprocess it. --> apply aprropriate training model --> 
+Create a logic for predictive maintenance --> output as alert
+
